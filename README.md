@@ -33,7 +33,7 @@ Además, he explorado soluciones de inteligencia artificial aplicada mediante em
 - HTML
 - CSS
 - Tailwind CSS
-- Responsive Design
+- Responsive Web Design
 
 ### Backend
 - Python
