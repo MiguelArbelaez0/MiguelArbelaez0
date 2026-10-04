@@ -1,6 +1,6 @@
 # Miguel Arbeláez Vallejo
 
-### Software Developer | Flutter / Dart | Full-Stack | Backend | AI
+### Software Developer | Flutter & Dart | Full-Stack | Backend | AI/Data
 
 Computer Systems Engineering student at Fundación Universitaria CEIPA, focused on software development and on building mobile applications, full-stack systems, APIs, and data-driven solutions with applied AI.
 
