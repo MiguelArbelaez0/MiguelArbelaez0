@@ -1,6 +1,6 @@
 # Miguel Arbeláez Vallejo
 
-### Desarrollador de Software | Flutter y Dart | Desarrollo integral | Backend | IA y Datos
+### Desarrollador de Software | Flutter y Dart | Desarrollo integral | Servidor | IA y Datos
 
 Estudiante de Ingeniería de Sistemas en Fundación Universitaria CEIPA, enfocado en el desarrollo de software y en la construcción de aplicaciones móviles, sistemas integrales, APIs y soluciones orientadas a datos e inteligencia artificial.
 
@@ -8,7 +8,7 @@ Estudiante de Ingeniería de Sistemas en Fundación Universitaria CEIPA, enfocad
 
 Mi principal experiencia práctica está enfocada en el desarrollo móvil con Flutter y Dart, utilizando BLoC, Cubit, Clean Architecture, Repository Pattern, casos de uso, APIs REST y persistencia local.
 
-También he desarrollado proyectos integrales y de backend con React, Vite, JavaScript, Python, Flask, C# y .NET, integrando APIs, bases de datos y diferentes mecanismos de persistencia.
+También he desarrollado proyectos integrales y de servidor con React, Vite, JavaScript, Python, Flask, C# y .NET, integrando APIs, bases de datos y diferentes mecanismos de persistencia.
 
 En inteligencia artificial y datos he trabajado con embeddings, Sentence Transformers, búsqueda semántica, similitud vectorial y pgvector, incluyendo soluciones integradas con Supabase.
 
@@ -37,7 +37,7 @@ Actualmente continúo fortaleciendo mis conocimientos de ingeniería de software
 - Tailwind CSS
 - Diseño web adaptable
 
-### Backend
+### Servidor
 - Python
 - Flask
 - C#
