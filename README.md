@@ -1,39 +1,41 @@
 # Miguel Arbeláez Vallejo
 
-### Software Developer | Flutter & Dart | Full-Stack | Backend | AI/Data
+### Desarrollador de Software | Flutter y Dart | Desarrollo integral | Backend | IA y Datos
 
-Computer Systems Engineering student at Fundación Universitaria CEIPA, focused on software development and on building mobile applications, full-stack systems, APIs, and data-driven solutions with applied AI.
+Estudiante de Ingeniería de Sistemas en Fundación Universitaria CEIPA, enfocado en el desarrollo de software y en la construcción de aplicaciones móviles, sistemas integrales, APIs y soluciones orientadas a datos e inteligencia artificial.
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mí
 
-My main practical work is focused on mobile development with Flutter and Dart, using BLoC, Cubit, Clean Architecture, Repository Pattern, Use Cases, REST APIs, and local persistence.
+Mi principal experiencia práctica está enfocada en el desarrollo móvil con Flutter y Dart, utilizando BLoC, Cubit, Clean Architecture, Repository Pattern, casos de uso, APIs REST y persistencia local.
 
-I have also developed full-stack and backend projects using React, Vite, JavaScript, Python, Flask, C#, and .NET, integrating APIs, databases, and different persistence mechanisms.
+También he desarrollado proyectos integrales y de backend con React, Vite, JavaScript, Python, Flask, C# y .NET, integrando APIs, bases de datos y diferentes mecanismos de persistencia.
 
-In addition, I have explored applied AI solutions using embeddings, Sentence Transformers, semantic search, vector similarity, and pgvector.
+En inteligencia artificial y datos he trabajado con embeddings, Sentence Transformers, búsqueda semántica, similitud vectorial y pgvector, incluyendo soluciones integradas con Supabase.
 
-## 🛠️ Tech Stack
+Actualmente continúo fortaleciendo mis conocimientos de ingeniería de software mediante proyectos académicos y personales, con énfasis en arquitectura mantenible, buenas prácticas y soluciones funcionales.
 
-### Mobile
+## 🛠️ Tecnologías
+
+### Desarrollo móvil
 - Flutter
 - Dart
 - BLoC
 - Cubit
 - Clean Architecture
 - Repository Pattern
-- Use Cases
+- Casos de uso
 - Dio
 - Hive
 - SharedPreferences
 
-### Frontend
+### Desarrollo web
 - React
 - Vite
 - JavaScript
 - HTML
 - CSS
 - Tailwind CSS
-- Responsive Web Design
+- Diseño web adaptable
 
 ### Backend
 - Python
@@ -41,11 +43,11 @@ In addition, I have explored applied AI solutions using embeddings, Sentence Tra
 - C#
 - .NET
 - ASP.NET Core
-- REST APIs
+- APIs REST
 - Marten
 - MailKit
 
-### Databases
+### Bases de datos
 - SQL
 - MySQL
 - PostgreSQL
@@ -54,46 +56,46 @@ In addition, I have explored applied AI solutions using embeddings, Sentence Tra
 - Supabase
 - Prisma
 
-### AI / Data
+### IA y datos
 - Embeddings
 - Sentence Transformers
-- Semantic Search
-- Vector Similarity
+- Búsqueda semántica
+- Similitud vectorial
 - pgvector
 
-## 🚀 Featured Projects
+## 🚀 Proyectos destacados
 
 ### Quantum Core
-Full-Stack transaction management system.
+Sistema web integral para la gestión y análisis de transacciones financieras.
 
 **React · Vite · Python · Flask · Prisma · MySQL · Docker**
 
 ### SoundFlow AI
-Semantic music search and recommendation system.
+Sistema de búsqueda semántica de música basado en embeddings y similitud vectorial.
 
 **Python · Sentence Transformers · Embeddings · Supabase · pgvector**
 
 ### Marten + Supabase
-Verification code API with document-oriented persistence.
+API de verificación de códigos con persistencia documental.
 
 **C# · .NET 10 · ASP.NET Core · Marten · PostgreSQL · Supabase · MailKit**
 
 ### Book App
-Mobile application for book discovery and search.
+Aplicación móvil para descubrir y buscar libros.
 
-**Flutter · Dart · BLoC/Cubit · Clean Architecture · REST API**
+**Flutter · Dart · BLoC/Cubit · Clean Architecture · API REST**
 
 ### Recipes App
-Recipe discovery and search application.
+Aplicación móvil para descubrir y buscar recetas.
 
 **Flutter · Dart · BLoC · Streams · Dio · Clean Architecture**
 
-## 🎓 Education
+## 🎓 Formación
 
 **Fundación Universitaria CEIPA**  
-Computer Systems Engineering — In progress
+Ingeniería de Sistemas — En curso
 
-## 📫 Contact
+## 📫 Contacto
 
 - LinkedIn: [Miguel Arbeláez Vallejo](https://www.linkedin.com/in/miguel-arbelaez-v-57719542b/)
-- Email: arbelaezvallejomiguel@gmail.com
+- Correo: arbelaezvallejomiguel@gmail.com
