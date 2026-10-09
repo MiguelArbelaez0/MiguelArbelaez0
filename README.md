@@ -56,7 +56,32 @@ Me interesa construir software funcional, organizado y mantenible, aplicando bue
 - Docker
 - Streamlit
 
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelArbelaez0&show_icons=true&locale=es&hide_border=true&theme=transparent" alt="Estadísticas de GitHub de Miguel" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelArbelaez0&layout=compact&locale=es&hide_border=true&theme=transparent" alt="Lenguajes más utilizados en los repositorios públicos" />
+</p>
+
 ## 🚀 Proyectos destacados
+
+<p align="center">
+  <a href="https://github.com/MiguelArbelaez0/QUANTUM-CORE-FULLSTACK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelArbelaez0&repo=QUANTUM-CORE-FULLSTACK&hide_border=true&theme=transparent" alt="Quantum Core" />
+  </a>
+  <a href="https://github.com/MiguelArbelaez0/SoundFlow-Pro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelArbelaez0&repo=SoundFlow-Pro&hide_border=true&theme=transparent" alt="SoundFlow AI" />
+  </a>
+  <a href="https://github.com/MiguelArbelaez0/MARTEN_SUPABASE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelArbelaez0&repo=MARTEN_SUPABASE&hide_border=true&theme=transparent" alt="Marten + Supabase" />
+  </a>
+  <a href="https://github.com/MiguelArbelaez0/FLUTTER_BOOKS_CLEAN_BLOC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelArbelaez0&repo=FLUTTER_BOOKS_CLEAN_BLOC&hide_border=true&theme=transparent" alt="Book App" />
+  </a>
+  <a href="https://github.com/MiguelArbelaez0/FLUTTER_RECIPES_CLEAN_STREAMS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MiguelArbelaez0&repo=FLUTTER_RECIPES_CLEAN_STREAMS&hide_border=true&theme=transparent" alt="Recipes App" />
+  </a>
+</p>
 
 ### Quantum Core
 Sistema web integral para la gestión de transacciones, con interfaz web, servicios backend y persistencia en base de datos.
