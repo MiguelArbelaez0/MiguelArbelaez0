@@ -1,92 +1,85 @@
 # Miguel Arbeláez Vallejo
 
-### Desarrollador de Software | Flutter y Dart | Desarrollo integral | Servidor | IA y Datos
+### Desarrollador de Software | Flutter y Dart | React | Python | C# y .NET
 
-Estudiante de Ingeniería de Sistemas en Fundación Universitaria CEIPA, enfocado en el desarrollo de software y en la construcción de aplicaciones móviles, sistemas integrales, APIs y soluciones orientadas a datos e inteligencia artificial.
+Estudiante de Ingeniería de Sistemas en la Fundación Universitaria CEIPA, enfocado en el desarrollo de aplicaciones móviles, aplicaciones web, servicios backend e integración de bases de datos y soluciones de inteligencia artificial aplicada.
 
 ## 👨‍💻 Sobre mí
 
-Mi principal experiencia práctica está enfocada en el desarrollo móvil con Flutter y Dart, utilizando BLoC, Cubit, Clean Architecture, Repository Pattern, casos de uso, APIs REST y persistencia local.
+Mi formación en programación comenzó en 2022 y he fortalecido mis conocimientos mediante proyectos personales y académicos. Mi principal enfoque es el desarrollo móvil con Flutter y Dart, utilizando BLoC/Cubit, Clean Architecture, Repository Pattern, casos de uso, integración de APIs REST y persistencia local.
 
-También he desarrollado proyectos integrales y de servidor con React, Vite, JavaScript, Python, Flask, C# y .NET, integrando APIs, bases de datos y diferentes mecanismos de persistencia.
+También he construido proyectos web y backend con React, Vite, JavaScript, Python, Flask, C# y .NET, conectando interfaces, servicios y bases de datos.
 
-En inteligencia artificial y datos he trabajado con embeddings, Sentence Transformers, búsqueda semántica, similitud vectorial y pgvector, incluyendo soluciones integradas con Supabase.
+En inteligencia artificial aplicada, he desarrollado soluciones de búsqueda semántica mediante embeddings, Sentence Transformers, PostgreSQL, pgvector y Supabase.
 
-Actualmente continúo fortaleciendo mis conocimientos de ingeniería de software mediante proyectos académicos y personales, con énfasis en arquitectura mantenible, buenas prácticas y soluciones funcionales.
+Me interesa construir software funcional, organizado y mantenible, aplicando buenas prácticas y una arquitectura adecuada a las necesidades de cada proyecto. Actualmente continúo fortaleciendo mis conocimientos como estudiante de Ingeniería de Sistemas en la Fundación Universitaria CEIPA.
 
 ## 🛠️ Tecnologías
 
 ### Desarrollo móvil
-- Flutter
-- Dart
-- BLoC
-- Cubit
+- Flutter y Dart
+- BLoC y Cubit
 - Clean Architecture
-- Repository Pattern
-- Casos de uso
+- Repository Pattern y casos de uso
 - Dio
-- Hive
-- SharedPreferences
+- Hive y SharedPreferences
 
 ### Desarrollo web
-- React
-- Vite
+- React y Vite
 - JavaScript
-- HTML
-- CSS
+- HTML y CSS
 - Tailwind CSS
 - Diseño web adaptable
 
-### Servidor
-- Python
-- Flask
-- C#
-- .NET
+### Desarrollo backend
+- Python y Flask
+- C# y .NET
 - ASP.NET Core
 - APIs REST
-- Marten
-- MailKit
+- Marten y MailKit
 
-### Bases de datos
-- SQL
-- MySQL
-- PostgreSQL
-- MongoDB
-- Redis
-- Supabase
+### Bases de datos y persistencia
+- SQL y MySQL
+- PostgreSQL y Supabase
+- MongoDB y Redis
 - Prisma
+- pgvector
 
-### IA y datos
+### Inteligencia artificial y datos
 - Embeddings
 - Sentence Transformers
 - Búsqueda semántica
 - Similitud vectorial
-- pgvector
+
+### Herramientas
+- Git y GitHub
+- Docker
+- Streamlit
 
 ## 🚀 Proyectos destacados
 
 ### Quantum Core
-Sistema web integral para la gestión y análisis de transacciones financieras.
+Sistema web integral para la gestión de transacciones, con interfaz web, servicios backend y persistencia en base de datos.
 
 **React · Vite · Python · Flask · Prisma · MySQL · Docker**
 
 ### SoundFlow AI
-Sistema de búsqueda semántica de música basado en embeddings y similitud vectorial.
+Aplicación de búsqueda musical semántica que utiliza embeddings y similitud vectorial para encontrar canciones según su descripción.
 
-**Python · Sentence Transformers · Embeddings · Supabase · pgvector**
+**Python · Streamlit · Sentence Transformers · Supabase · PostgreSQL · pgvector**
 
 ### Marten + Supabase
-API de verificación de códigos con persistencia documental.
+Sistema de verificación de correo electrónico mediante códigos, con persistencia documental y envío de mensajes.
 
 **C# · .NET 10 · ASP.NET Core · Marten · PostgreSQL · Supabase · MailKit**
 
 ### Book App
-Aplicación móvil para descubrir y buscar libros.
+Aplicación móvil para descubrir y buscar libros, integrada con la API de Open Library.
 
 **Flutter · Dart · BLoC/Cubit · Clean Architecture · API REST**
 
 ### Recipes App
-Aplicación móvil para descubrir y buscar recetas.
+Aplicación móvil para descubrir y buscar recetas, integrada con la API de TheMealDB.
 
 **Flutter · Dart · BLoC · Streams · Dio · Clean Architecture**
 
@@ -95,7 +88,10 @@ Aplicación móvil para descubrir y buscar recetas.
 **Fundación Universitaria CEIPA**  
 Ingeniería de Sistemas — En curso
 
+Formación complementaria en programación, Java, desarrollo de software y aplicaciones móviles mediante Misión TIC 2022, Universidad de Caldas.
+
 ## 📫 Contacto
 
-- LinkedIn: [Miguel Arbeláez Vallejo](https://www.linkedin.com/in/miguel-arbelaez-v-57719542b/)
-- Correo: arbelaezvallejomiguel@gmail.com
+- **LinkedIn:** [Miguel Arbeláez Vallejo](https://www.linkedin.com/in/miguel-arbelaez-v-57719542b/)
+- **Portafolio:** [miguel-arbelaez-portfolio.onrender.com](https://miguel-arbelaez-portfolio.onrender.com/)
+- **Correo:** arbelaezvallejomiguel@gmail.com
