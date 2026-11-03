@@ -14,8 +14,6 @@ Mi enfoque principal es el **desarrollo móvil**, pero mi portafolio incluye pro
 
 ## Proyectos destacados
 
-> **Para reclutadores:** cada proyecto enlaza a su código y README técnico. Las tecnologías y funcionalidades se contrastaron con la estructura del repositorio; los proyectos no se presentan como sistemas de producción verificados.
-
 ### 📱 Mobile — Flutter & Dart
 
 | Proyecto | Stack principal | Qué demuestra |
@@ -53,12 +51,12 @@ Mi enfoque principal es el **desarrollo móvil**, pero mi portafolio incluye pro
 
 **Herramientas:** Git · GitHub · Docker · VS Code
 
-## Cómo evalúo y construyo software
+## Enfoque de desarrollo
 
 - **Arquitectura:** separación de responsabilidades mediante capas, repositorios y casos de uso donde aporta valor.
 - **Estado y datos:** gestión reactiva con BLoC/Cubit, consumo de APIs y persistencia local o remota.
 - **Calidad:** pruebas presentes en varios repositorios; la ejecución y cobertura deben verificarse por proyecto.
-- **Documentación:** cada repositorio explica su alcance, stack y limitaciones conocidas. No afirmo despliegues o certificaciones que no estén demostrados.
+- **Documentación:** cada repositorio describe su alcance, tecnologías, instrucciones y limitaciones conocidas.
 
 ## Formación y objetivos
 
