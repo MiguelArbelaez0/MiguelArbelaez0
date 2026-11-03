@@ -1,155 +1,78 @@
-# 👋 Miguel Arbeláez Vallejo
+# Miguel Arbeláez Vallejo
 
-### Software Developer | Flutter & Dart | Clean Architecture & BLoC | Full-Stack
+### Software Developer · Flutter & Dart · Full-Stack · Backend · AI/Data
 
-**Estudiante de Ingeniería de Sistemas · Fundación Universitaria CEIPA**
+**Estudiante de Ingeniería de Sistemas en CEIPA · Medellín, Colombia**
 
-Desarrollador de software en formación, con enfoque principal en **aplicaciones móviles con Flutter y Dart**. Desarrollo proyectos personales y académicos aplicando **Clean Architecture, BLoC/Cubit, Repository Pattern**, integración de APIs REST y persistencia de datos.
+Desarrollo aplicaciones móviles con **Flutter y Dart**, utilizando **BLoC/Cubit, Clean Architecture, casos de uso, APIs REST y persistencia local**. También construyo proyectos de **frontend y Full-Stack** con React/Flask/MySQL, **backend** con C#/.NET/PostgreSQL y **búsqueda semántica** con Python/Supabase/pgvector.
 
-Complemento el desarrollo móvil con proyectos **Full-Stack** (React, Flask y MySQL), servicios **backend** (C# y ASP.NET Core) e **inteligencia artificial aplicada** (embeddings, búsqueda semántica y pgvector).
+Mi enfoque principal es el **desarrollo móvil**, pero mi portafolio incluye proyectos concretos para evaluar mis habilidades en otras áreas de ingeniería de software.
 
-Mi objetivo profesional es crecer como **Flutter Developer / Software Developer**, construyendo soluciones funcionales, organizadas y mantenibles.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_profesional-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-arbelaez-v-57719542b/)
+[![Portfolio](https://img.shields.io/badge/Portafolio-Web-24292F?logo=googlechrome&logoColor=white)](https://miguel-arbelaez-portfolio.onrender.com/)
+[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?logo=gmail&logoColor=white)](mailto:arbelaezvallejomiguel@gmail.com)
 
-## 👨‍💻 Sobre mí
+## Proyectos destacados
 
-Comencé mi formación en programación en 2022. Desde entonces he desarrollado aplicaciones y ejercicios prácticos que abarcan interfaces móviles, arquitectura por capas, consumo de APIs, operaciones CRUD, bases de datos y servicios backend.
+> **Para reclutadores:** cada proyecto enlaza a su código y README técnico. Las tecnologías y funcionalidades se contrastaron con la estructura del repositorio; los proyectos no se presentan como sistemas de producción verificados.
 
-En Flutter trabajo con gestión reactiva del estado, separación entre presentación, dominio y datos, inyección de dependencias y persistencia local. También exploro la integración de sistemas de extremo a extremo y aplicaciones de búsqueda semántica.
+### 📱 Mobile — Flutter & Dart
 
-## 🛠️ Tecnologías y herramientas
+| Proyecto | Stack principal | Qué demuestra |
+| --- | --- | --- |
+| **[Flutter Books](https://github.com/MiguelArbelaez0/FLUTTER_BOOKS_CLEAN_BLOC)** | Flutter, Dart, Cubit, Open Library API, SharedPreferences | Búsqueda de libros, favoritos y separación de datos, dominio y presentación |
+| **[Flutter Finance](https://github.com/MiguelArbelaez0/FLUTTER_FINANCE_CLEAN_BLOC)** | Flutter, Dart, BLoC, Hive | CRUD financiero, cálculos de saldo, persistencia local y casos de uso |
+| **[Flutter Recipes](https://github.com/MiguelArbelaez0/FLUTTER_RECIPES_CLEAN_STREAMS)** | Flutter, Dart, BLoC, Streams, Dio, GetIt | Búsqueda reactiva, debounce, categorías y consumo de TheMealDB |
+| **[E-Commerce](https://github.com/MiguelArbelaez0/ECOMMERCE)** | Flutter, Dart, BLoC, Dio, Hive | Catálogo remoto, detalle de productos y carrito local; sin pagos reales |
 
-### 📱 Desarrollo móvil — enfoque principal
+### 🌐 Full-Stack y Backend
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+| Proyecto | Stack principal | Qué demuestra |
+| --- | --- | --- |
+| **[Quantum Core](https://github.com/MiguelArbelaez0/QUANTUM-CORE-FULLSTACK)** | React, Vite, Flask, Prisma, MySQL | API REST, CRUD de transacciones e integración frontend/backend; instalación reproducible pendiente |
+| **[Marten + Supabase](https://github.com/MiguelArbelaez0/MARTEN_SUPABASE)** | C#, .NET 10, ASP.NET Core, Marten, PostgreSQL, MailKit | Verificación de correo con códigos temporales, persistencia y controles de expiración |
 
-BLoC / Cubit · Clean Architecture · Repository Pattern · Casos de uso · Streams · Dio · GetIt · Hive · SharedPreferences · APIs REST
+### 🧠 AI / Data y Python
 
-### 🌐 Desarrollo web y Full-Stack
+| Proyecto | Stack principal | Qué demuestra |
+| --- | --- | --- |
+| **[SoundFlow AI](https://github.com/MiguelArbelaez0/SOUNDFLOW-PRO)** | Python, Streamlit, Sentence Transformers, Supabase, pgvector | Embeddings y búsqueda musical por similitud semántica |
+| **[Mis Proyectos Python](https://github.com/MiguelArbelaez0/MisProyectosPython)** | Python, fundamentos y SQLite | Evolución de aprendizaje y ejercicios prácticos; repositorio educativo |
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+## Tecnologías
 
-Interfaces adaptables · Integración cliente-servidor
+**Mobile:** Flutter · Dart · BLoC / Cubit · Clean Architecture · Streams · Dio · GetIt · Hive · SharedPreferences
 
-### ⚙️ Backend y APIs
+**Frontend:** React · JavaScript · Vite · HTML · CSS · Tailwind CSS
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+**Backend:** Python · Flask · C# · .NET / ASP.NET Core · APIs REST · Marten
 
-ASP.NET Core · APIs REST · Marten · MailKit
+**Datos:** MySQL · PostgreSQL · Supabase · Prisma · pgvector · SQLite
 
-### 🗄️ Bases de datos y persistencia
+**IA aplicada:** Sentence Transformers · Embeddings · Búsqueda semántica · Streamlit
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+**Herramientas:** Git · GitHub · Docker · VS Code
 
-SQL · pgvector · Hive · SharedPreferences
+## Cómo evalúo y construyo software
 
-### 🧠 IA aplicada y datos
+- **Arquitectura:** separación de responsabilidades mediante capas, repositorios y casos de uso donde aporta valor.
+- **Estado y datos:** gestión reactiva con BLoC/Cubit, consumo de APIs y persistencia local o remota.
+- **Calidad:** pruebas presentes en varios repositorios; la ejecución y cobertura deben verificarse por proyecto.
+- **Documentación:** cada repositorio explica su alcance, stack y limitaciones conocidas. No afirmo despliegues o certificaciones que no estén demostrados.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+## Formación y objetivos
 
-Sentence Transformers · Embeddings · Búsqueda semántica · Similitud vectorial · Supabase RPC
+- **Ingeniería de Sistemas — Fundación Universitaria CEIPA** (en curso).
+- **Misión TIC 2022 — Universidad de Caldas** (formación en programación).
+- **Intereses profesionales:** Flutter Developer, Mobile Developer, Software Developer, Full-Stack Junior y Backend Junior.
 
-### 🔧 Herramientas
+## Contacto
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-Control de versiones · Contenerización · VS Code
-
-## 🚀 Proyectos destacados
-
-### 📱 Flutter y desarrollo móvil
-
-#### 1. 📚 Flutter Books — Clean Architecture & Cubit
-
-**Flutter · Dart · Cubit/BLoC · Open Library API · SharedPreferences**
-
-Búsqueda y paginación de libros, favoritos persistentes, casos de uso y separación de capas.
-
-[🔗 Ver repositorio](https://github.com/MiguelArbelaez0/FLUTTER_BOOKS_CLEAN_BLOC)
-
-#### 2. 💰 Flutter Finance — Clean Architecture & BLoC
-
-**Flutter · Dart · BLoC · Hive**
-
-CRUD de transacciones, ingresos, gastos, saldo y resúmenes mensuales con persistencia local.
-
-[🔗 Ver repositorio](https://github.com/MiguelArbelaez0/FLUTTER_FINANCE_CLEAN_BLOC)
-
-#### 3. 🍽️ Flutter Recipes — Reactive Streams
-
-**Flutter · Dart · BLoC · Streams · Dio · TheMealDB**
-
-Búsqueda reactiva con debounce, estados de carga y error, repositorios y casos de uso.
-
-[🔗 Ver repositorio](https://github.com/MiguelArbelaez0/FLUTTER_RECIPES_CLEAN_STREAMS)
-
-#### 4. 🛒 E-Commerce — Flutter Shopping App
-
-**Flutter · Dart · BLoC · Dio · Hive · GetIt**
-
-Catálogo desde Fake Store API, detalles de productos y carrito persistente; no procesa pagos reales.
-
-[🔗 Ver repositorio](https://github.com/MiguelArbelaez0/ECOMMERCE)
-
-### 🌐 Full-Stack, backend e IA aplicada
-
-#### 5. ⚡ Quantum Core — Full-Stack Financial System
-
-**React · Vite · Python · Flask · Prisma · MySQL · Docker**
-
-Gestión de transacciones mediante API REST, CRUD y cálculo de ingresos, egresos y saldo neto. Proyecto académico.
-
-[🔗 Ver repositorio](https://github.com/MiguelArbelaez0/QUANTUM-CORE-FULLSTACK)
-
-#### 6. 🔐 Marten + Supabase — Email Verification
-
-**C# · .NET 10 · ASP.NET Core · Marten · PostgreSQL · MailKit**
-
-Códigos temporales de seis dígitos, hash SHA-256, expiración, límite de intentos y envío SMTP.
-
-[🔗 Ver repositorio](https://github.com/MiguelArbelaez0/MARTEN_SUPABASE)
-
-#### 7. 🎵 SoundFlow AI — Semantic Music Search
-
-**Python · Streamlit · Sentence Transformers · Supabase · pgvector**
-
-Búsqueda semántica de canciones con embeddings de 384 dimensiones y similitud vectorial.
-
-[🔗 Ver repositorio](https://github.com/MiguelArbelaez0/SOUNDFLOW-PRO)
-
-### 🐍 Fundamentos y aprendizaje
-
-#### 8. Mis Proyectos Python
-
-Archivo educativo de ejercicios y proyectos personales de programación con Python. No se presenta como una aplicación de producción.
-
-[🔗 Ver repositorio](https://github.com/MiguelArbelaez0/MisProyectosPython)
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelArbelaez0&show_icons=true&locale=es&hide_border=true&theme=transparent" alt="Estadísticas de GitHub de Miguel" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelArbelaez0&layout=compact&locale=es&hide_border=true&theme=transparent" alt="Lenguajes en repositorios públicos" />
-</p>
-
-> Las estadísticas de lenguajes reflejan la composición de los repositorios, no el nivel de dominio técnico.
-
-## 🎓 Formación
-
-**Fundación Universitaria CEIPA** — Ingeniería de Sistemas (en curso).
-
-**Misión TIC 2022 · Universidad de Caldas** — Formación complementaria en programación, Java y desarrollo de software.
-
-## 🎯 Objetivos profesionales
-
-Seguir profundizando en **Flutter y Dart**, arquitectura de software, BLoC/Cubit, pruebas, integración de APIs y buenas prácticas de desarrollo. Complementar esa especialidad con conocimientos Full-Stack, backend y bases de datos.
-
-## 📫 Contacto
-
-- **LinkedIn:** [Miguel Arbeláez Vallejo](https://www.linkedin.com/in/miguel-arbelaez-v-57719542b/)
+- **LinkedIn:** [miguel-arbelaez-v-57719542b](https://www.linkedin.com/in/miguel-arbelaez-v-57719542b/)
 - **Portafolio:** [miguel-arbelaez-portfolio.onrender.com](https://miguel-arbelaez-portfolio.onrender.com/)
+- **Correo:** [arbelaezvallejomiguel@gmail.com](mailto:arbelaezvallejomiguel@gmail.com)
 - **GitHub:** [MiguelArbelaez0](https://github.com/MiguelArbelaez0)
-- **Correo:** arbelaezvallejomiguel@gmail.com
 
 ---
 
-*Aprendizaje continuo, proyectos prácticos y software mantenible.*
+*Construyo proyectos prácticos para seguir mejorando en desarrollo móvil, software Full-Stack y soluciones orientadas a datos.*
