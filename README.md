@@ -5,7 +5,7 @@ Medellín, Colombia · Estudiante de Ingeniería de Sistemas en Fundación Unive
 
 Construyo aplicaciones web, APIs y apps móviles que conectan interfaces, reglas de negocio y datos. Me interesa especialmente el desarrollo **Full Stack y backend**, con atención a autenticación, persistencia, pruebas y documentación.
 
-[**Portafolio**](https://miguel-arbelaez-portfolio.onrender.com/) · [**LinkedIn**](https://www.linkedin.com/in/miguel-arbelaez-v-57719542b/) · [**Correo**](mailto:arbelaezvallejomiguel@gmail.com) · [**GitHub**](https://github.com/MiguelArbelaez0)
+[**Portafolio**](https://miguel-arbelaez-portfolio.onrender.com/) · [**LinkedIn**](https://www.linkedin.com/in/miguel-arbel%C3%A1ez-vallejo-57719542b/) · [**Correo**](mailto:arbelaezvallejomiguel@gmail.com) · [**GitHub**](https://github.com/MiguelArbelaez0)
 
 ## Lo que puedo aportar
 
@@ -53,4 +53,4 @@ App móvil con búsqueda en Open Library, favoritos locales y arquitectura por c
 - **Misión TIC 2022** — Universidad de Caldas.
 
 ---
-*Medellín, Colombia · Contacto: [LinkedIn](https://www.linkedin.com/in/miguel-arbelaez-v-57719542b/) · [Correo](mailto:arbelaezvallejomiguel@gmail.com)*
+*Medellín, Colombia · Contacto: [LinkedIn](https://www.linkedin.com/in/miguel-arbel%C3%A1ez-vallejo-57719542b/) · [Correo](mailto:arbelaezvallejomiguel@gmail.com)*
