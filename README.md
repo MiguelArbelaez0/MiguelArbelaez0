@@ -1,59 +1,50 @@
 # Miguel Arbeláez Vallejo
 
-### Software Developer · Full Stack · Python · Flutter
+**Desarrollador Full Stack Junior · Python · Flutter**  
+Medellín, Colombia · Estudiante de Ingeniería de Sistemas en Fundación Universitaria CEIPA
 
-**Estudiante de Ingeniería de Sistemas en Fundación Universitaria CEIPA · Medellín, Colombia**
+Construyo aplicaciones web, APIs y apps móviles que conectan interfaces, reglas de negocio y datos. Me interesa especialmente el desarrollo **Full Stack y backend**, con atención a autenticación, persistencia, pruebas y documentación.
 
-Construyo aplicaciones web, APIs y soluciones de escritorio con foco en **arquitectura clara, integración de servicios y experiencia de usuario**. Mi portafolio reúne proyectos terminados de **Full Stack, Python y Flutter**; **SIGMA VIAL** es el único que continúa en desarrollo.
+[**Portafolio**](https://miguel-arbelaez-portfolio.onrender.com/) · [**LinkedIn**](https://www.linkedin.com/in/miguel-arbelaez-v-57719542b/) · [**Correo**](mailto:arbelaezvallejomiguel@gmail.com) · [**GitHub**](https://github.com/MiguelArbelaez0)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_profesional-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-arbelaez-v-57719542b/)
-[![Portafolio](https://img.shields.io/badge/Portafolio-Web-24292F?logo=googlechrome&logoColor=white)](https://miguel-arbelaez-portfolio.onrender.com/)
-[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?logo=gmail&logoColor=white)](mailto:arbelaezvallejomiguel@gmail.com)
+## Lo que puedo aportar
+
+- **Full Stack y backend:** React, TypeScript, Python, FastAPI, Flask, ASP.NET Core y APIs REST.
+- **Datos e infraestructura:** PostgreSQL, MySQL, Supabase, Docker y persistencia relacional/documental.
+- **Aplicaciones móviles:** Flutter, Dart, BLoC/Cubit, Clean Architecture e integración con APIs.
+- **Prácticas de desarrollo:** control de acceso, validación, pruebas automatizadas, Git y CI.
 
 ## Proyectos destacados
 
-### 1. Full Stack y Backend
+### [VITALSYNC · Plataforma web de salud](https://github.com/MiguelArbelaez0/VITALSYNC-FULLSTACK)
+Aplicación académica Full Stack con portales para pacientes, médicos y administración, reservas, autorización por rol y videoconsultas. Incluye pagos simulados; no es un producto médico oficial.
 
-| Proyecto | Estado y versión | Tecnologías | Aplicación |
-| --- | --- | --- | --- |
-| **[VITALSYNC](https://github.com/MiguelArbelaez0/VITALSYNC-FULLSTACK)** | **Terminado · v1.1.0** ([release](https://github.com/MiguelArbelaez0/VITALSYNC-FULLSTACK/releases/tag/v1.1.0)) | React, TypeScript, FastAPI, PostgreSQL, Docker, LiveKit | Gestión de citas, portales por rol, pagos de demostración e interconsultas por video. |
-| **[Quantum Core](https://github.com/MiguelArbelaez0/QUANTUM-CORE-FULLSTACK)** | **Terminado · 1.0.0** (`VERSION`; instalación documentada con limitaciones) | React, Vite, Flask, Prisma, MySQL | Gestión de transacciones financieras con API REST, operaciones CRUD y estadísticas. |
-| **[Marten + Supabase](https://github.com/MiguelArbelaez0/MARTEN_SUPABASE)** | **Terminado · v1.0.0** ([release](https://github.com/MiguelArbelaez0/MARTEN_SUPABASE/releases/tag/v1.0.0)) | C#, .NET 10, ASP.NET Core, Marten, PostgreSQL, MailKit | API de verificación de correo con códigos temporales, expiración y límite de intentos. |
+**React · TypeScript · FastAPI · PostgreSQL · Docker · LiveKit**  
+[Release v1.1.0](https://github.com/MiguelArbelaez0/VITALSYNC-FULLSTACK/releases/tag/v1.1.0) · CI de frontend y backend aprobada
 
-### 2. Python y Datos
+### [Marten + Supabase · Verificación de correo](https://github.com/MiguelArbelaez0/MARTEN_SUPABASE)
+API que genera códigos de verificación, guarda hashes en PostgreSQL y aplica expiración y límite de intentos.
 
-| Proyecto | Estado y versión | Tecnologías | Aplicación |
-| --- | --- | --- | --- |
-| **[SIGMA VIAL](https://github.com/MiguelArbelaez0/SIGMA_VIAL_SIMULATOR)** | **En desarrollo · 0.1.0** | Python 3.14, PySide6, SQLite, Tesseract OCR | Simulador vial de escritorio con identificación por placa y registro local. |
-| **[SoundFlow AI](https://github.com/MiguelArbelaez0/SOUNDFLOW-PRO)** | **Terminado · 1.0.0** (`VERSION`; sin release etiquetada) | Python, Streamlit, Sentence Transformers, Supabase, pgvector | Búsqueda semántica de canciones mediante embeddings y similitud vectorial. |
-| **[Mis Proyectos Python](https://github.com/MiguelArbelaez0/MisProyectosPython)** | **Terminado · 1.0.0** (archivo de aprendizaje) | Python, SQLite | Ejercicios y proyectos organizados por etapas de aprendizaje. |
+**C# · .NET 10 · ASP.NET Core · Marten · PostgreSQL · MailKit**  
+[Release v1.0.0](https://github.com/MiguelArbelaez0/MARTEN_SUPABASE/releases/tag/v1.0.0) · compilación y análisis de dependencias verificados
 
-### 3. Flutter y Aplicaciones Móviles
+### [Libris · Catálogo de libros para Flutter](https://github.com/MiguelArbelaez0/FLUTTER_BOOKS_CLEAN_BLOC)
+App móvil con búsqueda en Open Library, favoritos locales y arquitectura por capas.
 
-| Proyecto | Estado y versión | Tecnologías | Aplicación |
-| --- | --- | --- | --- |
-| **[Flutter Books — Libris](https://github.com/MiguelArbelaez0/FLUTTER_BOOKS_CLEAN_BLOC)** | **Terminado · v1.0.0** ([release](https://github.com/MiguelArbelaez0/FLUTTER_BOOKS_CLEAN_BLOC/releases/tag/v1.0.0) · pubspec `1.0.0+1`) | Flutter, Dart, Cubit, Open Library API, SharedPreferences | Descubrimiento de libros, búsqueda y favoritos locales. |
-| **[Flutter Recipes — Sazón](https://github.com/MiguelArbelaez0/FLUTTER_RECIPES_CLEAN_STREAMS)** | **Terminado · v1.0.0** ([release](https://github.com/MiguelArbelaez0/FLUTTER_RECIPES_CLEAN_STREAMS/releases/tag/v1.0.0) · pubspec `1.0.0+1`) | Flutter, Dart, BLoC, Streams, Dio, GetIt, TheMealDB | Búsqueda reactiva de recetas, categorías y detalle de preparación. |
-| **[Flutter Finance](https://github.com/MiguelArbelaez0/FLUTTER_FINANCE_CLEAN_BLOC)** | **Terminado · v1.0.0** ([release](https://github.com/MiguelArbelaez0/FLUTTER_FINANCE_CLEAN_BLOC/releases/tag/v1.0.0) · pubspec `1.0.0+1`) | Flutter, Dart, BLoC, Hive | Registro de ingresos y gastos con persistencia local. |
-| **[E-Commerce](https://github.com/MiguelArbelaez0/ECOMMERCE)** | **Terminado · v1.0.0** ([release](https://github.com/MiguelArbelaez0/ECOMMERCE/releases/tag/v1.0.0) · pubspec `1.0.0+1`) | Flutter, Dart, BLoC, Dio, Hive, GetIt | Catálogo REST y carrito persistente; no procesa pagos reales. |
+**Flutter · Dart · Cubit · SharedPreferences**  
+[Release v1.0.0](https://github.com/MiguelArbelaez0/FLUTTER_BOOKS_CLEAN_BLOC/releases/tag/v1.0.0) · 23 pruebas aprobadas
 
-> Las releases Flutter, Marten y E-Commerce corresponden a v1.0.0; el campo `version` de sus `pubspec.yaml` conserva `1.0.0+1`. VITALSYNC publica v1.1.0. Quantum Core, SoundFlow AI y Mis Proyectos Python declaran 1.0.0 en `VERSION`. SIGMA VIAL declara 0.1.0 y es el único proyecto en desarrollo.
+## Otros proyectos
 
-## Tecnologías
-
-- **Full Stack:** React, TypeScript, JavaScript, Vite, Flask, FastAPI, ASP.NET Core, APIs REST.
-- **Python y datos:** Python, Streamlit, Sentence Transformers, PostgreSQL, Supabase, pgvector, SQLite.
-- **Flutter:** Dart, BLoC/Cubit, Clean Architecture, Streams, Dio, GetIt, Hive y SharedPreferences.
-- **Herramientas:** Git, GitHub, Docker, pruebas automatizadas y VS Code.
+- **Full Stack:** [Quantum Core](https://github.com/MiguelArbelaez0/QUANTUM-CORE-FULLSTACK) — gestión académica de transacciones y estadísticas con React, Flask, Prisma y MySQL. El README explica los pasos de configuración pendientes para una instalación desde cero.
+- **Python:** [SoundFlow AI](https://github.com/MiguelArbelaez0/SOUNDFLOW-PRO) — búsqueda semántica de canciones con Sentence Transformers y pgvector; [Mis Proyectos Python](https://github.com/MiguelArbelaez0/MisProyectosPython) — ejercicios organizados por etapas.
+- **Flutter:** [Sazón](https://github.com/MiguelArbelaez0/FLUTTER_RECIPES_CLEAN_STREAMS) — recetas con BLoC y Streams; [Finance](https://github.com/MiguelArbelaez0/FLUTTER_FINANCE_CLEAN_BLOC) — finanzas locales con Hive; [E-Commerce](https://github.com/MiguelArbelaez0/ECOMMERCE) — catálogo y carrito de demostración. Cada app tiene release v1.0.0.
+- **En desarrollo:** [SIGMA VIAL](https://github.com/MiguelArbelaez0/SIGMA_VIAL_SIMULATOR) — simulador vial de escritorio con Python, PySide6, SQLite y Tesseract OCR.
 
 ## Formación
 
-- **Ingeniería de Sistemas — Fundación Universitaria CEIPA** (en curso).
-- **Misión TIC 2022 — Universidad de Caldas** (formación en programación).
+- **Ingeniería de Sistemas** — Fundación Universitaria CEIPA (en curso).
+- **Misión TIC 2022** — Universidad de Caldas.
 
-## Contacto
-
-- **LinkedIn:** [miguel-arbelaez-v-57719542b](https://www.linkedin.com/in/miguel-arbelaez-v-57719542b/)
-- **Portafolio:** [miguel-arbelaez-portfolio.onrender.com](https://miguel-arbelaez-portfolio.onrender.com/)
-- **Correo:** [arbelaezvallejomiguel@gmail.com](mailto:arbelaezvallejomiguel@gmail.com)
-- **GitHub:** [MiguelArbelaez0](https://github.com/MiguelArbelaez0)
+---
+*Medellín, Colombia · Contacto: [LinkedIn](https://www.linkedin.com/in/miguel-arbelaez-v-57719542b/) · [Correo](mailto:arbelaezvallejomiguel@gmail.com)*
