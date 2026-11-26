@@ -36,7 +36,7 @@ App móvil con búsqueda en Open Library, favoritos locales y arquitectura por c
 
 ## Otros proyectos
 
-- **Full Stack:** [Quantum Core](https://github.com/MiguelArbelaez0/QUANTUM-CORE-FULLSTACK) — gestión académica de transacciones y estadísticas con React, Flask, Prisma y MySQL. El README explica los pasos de configuración pendientes para una instalación desde cero.
+- **Full Stack:** [Quantum Core](https://github.com/MiguelArbelaez0/QUANTUM-CORE-FULLSTACK) — prototipo académico para gestión de transacciones y estadísticas con React, Flask, Prisma y MySQL.
 - **Python:** [SoundFlow AI](https://github.com/MiguelArbelaez0/SOUNDFLOW-PRO) — búsqueda semántica de canciones con Sentence Transformers y pgvector; [Mis Proyectos Python](https://github.com/MiguelArbelaez0/MisProyectosPython) — ejercicios organizados por etapas.
 - **Flutter:** [Sazón](https://github.com/MiguelArbelaez0/FLUTTER_RECIPES_CLEAN_STREAMS) — recetas con BLoC y Streams; [Finance](https://github.com/MiguelArbelaez0/FLUTTER_FINANCE_CLEAN_BLOC) — finanzas locales con Hive; [E-Commerce](https://github.com/MiguelArbelaez0/ECOMMERCE) — catálogo y carrito de demostración. Cada app tiene release v1.0.0.
 - **En desarrollo:** [SIGMA VIAL](https://github.com/MiguelArbelaez0/SIGMA_VIAL_SIMULATOR) — simulador vial de escritorio con Python, PySide6, SQLite y Tesseract OCR.
